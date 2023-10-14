@@ -1,0 +1,9 @@
+.budget-table {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  &__table {
+    width: 100%;
+  }
+}
